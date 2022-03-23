@@ -86,6 +86,22 @@
       height="40"
     />
   </a>
+  <a href="https://angular.io/" target="_blank">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"
+      alt="angular"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://nodejs.org/es/" target="_blank">
+    <img
+      src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
 
 </p>
 
