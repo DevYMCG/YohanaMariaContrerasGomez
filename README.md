@@ -3,6 +3,8 @@
 
 ### Hey, Yohana here! 👋
 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 ## Full Stack Developer
 
 - 🔭 I’m currently working at [Zintagma](https://zintagma.com/) 
